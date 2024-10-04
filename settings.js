@@ -1,7 +1,7 @@
 // OBEY COMMANDMENTS
 
 global.prefa = ['','!','.',',','🐤','🗿'] //NOT CHANGE
-global.owner = ['2348068831585'] //OWNER
+global.owner = ['2348120055226'] //OWNER
 global.botname = 'Finix 444' //BOT NAME
 global.versisc = "4.4.4" //NOT CHANGE
 global.baileys1 = require('@whiskeysockets/baileys') //NOT CHANGE
